@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background-color: teal;
+}
+
+.createUser {
+	position:fixed;
+	top: 115px;
+	left: 400px;
+}
+
+.login{
+	position: fixed;
+	top: 115px;
+	left: 700px;
+}
+
+table {
+	text-align: left;
+	border: thin;
+	border-style: dashed;
+}
+
+th {
+	text-align: right;
+}
+
+#submit{
+text-align: center;	
+}

@@ -1,0 +1,133 @@
+#main_body h1 a {
+	background-image: url('cal2.png');
+	background-repeat: no-repeat;
+	height: 40px;
+}
+
+html {
+	background-image: url('pattern_022.gif');
+	background-repeat: repeat;
+}
+
+#main_body h1 {
+	background-color: #666666;
+	background-image: none;
+}
+
+#form_container {
+	background-image: url('9.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-width: 1px;
+	border-style: dashed;
+	border-color: #c7f464;
+	height: 600px;
+}
+
+#footer{
+	position: absolute;
+	margin-bottom: 10px;
+	margin-right: 100px;
+
+	}
+
+#main_body form li.highlighted, #main_body .matrix tbody tr:hover td,
+	#machform_review_table tr.alt {
+	background-color: #ececec;
+}
+
+#main_body form .guidelines {
+	background-color: #f5f5f5;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #cccccc;
+}
+
+#main_body form .guidelines small {
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 80%;
+	color: #444444;
+}
+
+#main_body input.text, #main_body input.file, #main_body textarea.textarea,
+	#main_body select.select, #main_body input.checkbox, #main_body input.radio
+	{
+	background-color: #ffffff;
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 100%;
+	color: #666666;
+}
+
+#machform_review_table td.mf_review_value {
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 100%;
+	color: #444444;
+}
+
+#main_body .form_description h2, #main_body .form_success h2 {
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 160%;
+	color: #444444;
+}
+
+#main_body .form_description p, #main_body form ul.payment_list_items li
+	{
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 95%;
+	color: #444444;
+}
+
+#main_body form li span.ap_tp_text {
+	color: #444444;
+}
+
+#main_body label.description, #main_body span.description, #main_body .matrix caption,
+	#main_body .matrix td.first_col, #main_body form li.total_payment span,
+	#machform_review_table td.mf_review_label {
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 95%;
+	color: #444444;
+}
+
+#main_body form li span label, #main_body label.choice, #main_body .matrix th,
+	#main_body form li span.symbol, .mf_sigpad_clear, #main_body form li div label,
+	#main_body form li div span.label {
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	color: #444444;
+}
+
+#main_body form .section_break h3, #machform_review_table td .mf_section_title
+	{
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 110%;
+	color: #444444;
+}
+
+#main_body form .section_break p, #machform_review_table td .mf_section_content
+	{
+	font-family: 'Lucida Grande', 'Lucida Grande', Tahoma, Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 85%;
+	color: #444444;
+}
+
+#main_body form li.section_break {
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #000000;
+}
